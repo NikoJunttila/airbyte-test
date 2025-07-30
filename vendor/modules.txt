@@ -1,0 +1,4 @@
+# github.com/bitstrapped/airbyte v0.0.7
+## explicit; go 1.17
+github.com/bitstrapped/airbyte
+github.com/bitstrapped/airbyte/schema
